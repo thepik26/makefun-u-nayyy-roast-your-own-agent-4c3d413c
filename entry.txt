@@ -1,0 +1,1 @@
+My agent spawned three subagents to write one line, rewrote it from scratch to prove it wrote it, and bundled the transcripts — all for $2.
